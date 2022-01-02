@@ -53,11 +53,12 @@ https://twitter.com/joshbressers/status/1477366321436319745
    * Are the managers easy to contact?
    * Are the managers responsive to bug reports?
 ## Is it free of major bugs and vulnerabilities?
- * Are there old packages?
+ * Are there unsupported packages?
    * Are the transitive dependencies updated?
  * Do the old packages contain dangerous bugs?
  * How old?
  * What is the attack surface
 ## What's in it?
  * SBOM
+   * Including transitive dependencies
  * Are there any duplicate or unnecessary components?
