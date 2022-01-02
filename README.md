@@ -59,3 +59,4 @@ https://twitter.com/joshbressers/status/1477366321436319745
  * How old?
 ## What's in it?
  * SBOM
+ * Are there any duplicate or unnecessary components?
