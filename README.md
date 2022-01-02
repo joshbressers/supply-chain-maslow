@@ -46,6 +46,11 @@ https://twitter.com/joshbressers/status/1477366321436319745
  * Can we verify the signature?
  * Is the source of the project doing verification?
  * Who is watching for vulnerabilities and bugs?
+ * Who is is the project?
+   * Who manages it?
+   * How often is it updated?
+   * Are the managers easy to contact?
+   * Are the managers responsive to bug reports?
 ## Is it free of major bugs and vulnerabilities?
  * Are there old packages?
  * Do the old packages contain dangerous bugs?
