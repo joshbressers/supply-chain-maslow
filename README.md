@@ -44,6 +44,7 @@ https://twitter.com/joshbressers/status/1477366321436319745
 ## Can it be trusted?
  * Is it signed?
  * Can we verify the signature?
+ * How is the build system being secured?
  * Is the source of the project doing verification?
  * Who is watching for vulnerabilities and bugs?
  * Who is is the project?
