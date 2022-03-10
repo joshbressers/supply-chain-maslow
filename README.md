@@ -38,8 +38,8 @@ https://twitter.com/joshbressers/status/1477366321436319745
 
 
 ## Reproducibility
- * Reproducible builds
- * Independent verification of builds
+ * Reproducible content
+ * Independent verification of content
 ## Trusting updates
  * Update components
  * Update the application
