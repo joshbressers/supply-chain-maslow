@@ -40,11 +40,11 @@ https://twitter.com/joshbressers/status/1477366321436319745
 ## Reproducibility
  * Reproducible builds
  * Independent verification of builds
-## Can it be updated
+## Trusting updates
  * Update components
  * Update the application
  * Update the operating system
-## Can it be trusted?
+## Artifact confidence
  * Is it signed?
  * Can we verify the signature?
  * How is the build system being secured?
@@ -59,7 +59,7 @@ https://twitter.com/joshbressers/status/1477366321436319745
  * Are there unsupported packages?
    * Are the transitive dependencies updated?
  * Do the old packages contain dangerous bugs?
- * How old?
+ * How old are the components?
  * What is the attack surface
 ## What's in it?
  * SBOM
