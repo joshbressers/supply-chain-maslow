@@ -65,3 +65,8 @@ https://twitter.com/joshbressers/status/1477366321436319745
  * SBOM
    * Including transitive dependencies
  * Are there any duplicate or unnecessary components?
+
+
+
+# Notes
+https://twitter.com/p_millerd/status/1509323819600732160
